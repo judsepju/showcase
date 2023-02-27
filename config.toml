@@ -1,7 +1,8 @@
-baseURL = "https://visualcomputing.github.io/showcase"
+baseURL = "https://judsepju.github.io/showcase"
 languageCode = "en-us"
 title = "Showcase Template"
 theme = 'book'
+
 
 # Book configuration
 disablePathToLower = true
